@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning and developing my skills in multiple languages, spoken-languages are included :)
+- 🔭 I'm currently working on my own website.
+- 📫 You can reach me through lnk.bio/atech . You'll find every single way to reach
 <!--
 **AbdullahAlousi/AbdullahAlousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
